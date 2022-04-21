@@ -1,1 +1,9 @@
+HIGH LEVEL REQUIREMENTS-
+*AVR ATMEGA 328 Microcontoller
+*Relay (Switch)
+*LED
+*Fixed Volt
 
+LOW LEVEL REQUIREMENTS-
+*SIMULIDE
+*Software Tool-AVR ATMEL STUDIO
